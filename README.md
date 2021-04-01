@@ -1,4 +1,4 @@
-### Hello everyone! I'm Ádria 👋
+### Hi there! I'm Ádria 👋
 
 <!--
 **adriacaroba/adriacaroba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
